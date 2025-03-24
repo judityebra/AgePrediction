@@ -1,0 +1,6 @@
+PyTorch Version: 1.12.1+cpu
+CUDA device available: False
+Using CUDA device: cpu
+Random Seed: 1
+Output Path: ./AgePrediction/sortides/predictions-afad_coral/
+Script: ./AgePrediction/main.py
